@@ -11,3 +11,10 @@ Everything related to syntax, tips and tricks and stuff
 ## Dictionary
 ## Tuple
 
+# Object Oriented
+
+# Introspection
+* dir()
+
+
+
