@@ -41,6 +41,7 @@ array.pop() # removes last element
 
 # Introspection
 * dir()
+
 # Documenting Code
 ## Available Documentation Libraries
 * Sphinx - http://sphinx-doc.org/
