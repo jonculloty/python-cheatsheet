@@ -41,6 +41,19 @@ array.pop() # removes last element
 
 # Introspection
 * dir()
+# Documenting Code
+## Available Documentation Libraries
+* Sphinx - http://sphinx-doc.org/
+* pydoc - http://epydoc.sourceforge.net/
+* Doxygen - http://www.stack.nl/~dimitri/doxygen/
+
+## Using Sphinx
+
+Example project documented with Sphinx: http://packages.python.org/an_example_pypi_project/sphinx.html
+
+``` python
+
+```
 
 
 
