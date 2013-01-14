@@ -35,6 +35,14 @@ array.pop() # removes last element
 
 
 ## Dictionary
+
+Create and access Dict
+
+```
+userid = {'john': 51, 'paul': 53}
+print "paul usedid: ",userid['paul']
+```
+
 ## Tuple
 
 # Object Oriented
